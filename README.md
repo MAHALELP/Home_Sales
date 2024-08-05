@@ -8,7 +8,7 @@ In this project, I applied SparkSQL techniques to analyze home sales data. The f
 ## Repository Information
 
 - **Repository Name**: `Home_Sales`
-- **GitHub Repository**: [Home_Sales](https://github.com/yourusername/Home_Sales)
+- **GitHub Repository**: [Home_Sales](https://github.com/MAHALELP/Home_Sales)
 
 ## Project Files
 
