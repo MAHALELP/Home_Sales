@@ -13,7 +13,7 @@ In this project, I applied SparkSQL techniques to analyze home sales data. The f
 ## Project Files
 
 - **Home_Sales.ipynb**: Jupyter Notebook containing all code and analysis.
-- **home_sales_revised.csv**: Dataset used for the analysis.
+- **home_sales_revised.csv**: [Dataset url](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv").
 
 ## Objectives and Accomplishments
 
@@ -21,7 +21,7 @@ In this project, I applied SparkSQL techniques to analyze home sales data. The f
 
 - **Notebook Initialization**: Renamed `Home_Sales_starter_code.ipynb` to `Home_Sales.ipynb`.
 - **Library Imports**: Imported necessary PySpark SQL functions for data processing.
-- **Data Ingestion**: Loaded the `home_sales_revised.csv` from the url "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv"
+- **Data Ingestion**: Loaded the `home_sales_revised.csv` from the url.
 
 
 ### 2. Creation of Temporary Table
